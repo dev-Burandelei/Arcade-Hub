@@ -117,9 +117,7 @@ Bacharel em Ciência da Computação pela Universidade Federal de São Carlos (U
 Interesses em Desenvolvimento de Software, Ciência de Dados, Machine Learning e Inteligência Artificial Generativa.
 
 - [GitHub](https://github.com/dev-Burandelei)
-- [LinkedIn](www.linkedin.com/in/vanderlei-assis
-
-)
+- [LinkedIn](www.linkedin.com/in/vanderlei-assis)
 
 ---
 
